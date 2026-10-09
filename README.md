@@ -24,8 +24,9 @@ I use vibe coding to validate product ideas quickly. The code is a means; the pr
 |---|---|---|
 | **[AI News Daily](https://github.com/echohux/ai-news-daily)** · [Live demo](https://echohux.github.io/ai-news-daily/) | Automated collection, deduplication, classification and daily publishing of 20 AI/cloud stories | Information workflow · Automation · Content quality |
 | **[Korean Hanja Study](https://github.com/echohux/Korean-Langurage-Study)** · [Live demo](https://echohux.github.io/Korean-Langurage-Study/) | Vocabulary learning for Chinese speakers with spaced review, reverse practice, audio and analytics | Learning design · Retention · Data feedback |
+| **[AI PM Learning Hub](https://github.com/echohux/ai-pm-learning-hub)** · [Live demo](https://echohux.github.io/ai-pm-learning-hub/ai-pm-checkin.html) | Interactive learning and daily check-in workflow for aspiring AI PMs | Information architecture · Rapid validation · Cloud sync |
 
-> More case studies are being prepared: an AI PM learning hub, a travel-planning mini program and MOVE ON, a lightweight fitness check-in product.
+> Next case studies: a travel-planning mini program and MOVE ON, a lightweight fitness check-in product.
 
 ## How I build
 
