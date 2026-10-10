@@ -27,9 +27,9 @@ I also use **Vibe Coding** to prototype quickly. Code is a means; product decisi
 |---|---|---|
 | **[AI News Daily](https://github.com/echohux/ai-news-daily)** · [在线体验 Live Demo](https://echohux.github.io/ai-news-daily/) | 自动采集、去重、分类并发布 AI 与云计算资讯 / Automated AI and cloud news collection, deduplication, classification, and publishing | 信息工作流 · 自动化 · 内容质量 / Information workflow · Automation · Content quality |
 | **[Korean Vocabulary Study](https://github.com/echohux/Korean-Vocabulary-Study)** · [在线体验 Live Demo](https://echohux.github.io/Korean-Vocabulary-Study/) | 面向中文用户的韩语词汇学习产品，包含间隔复习、反向练习、语音与数据分析 / Korean vocabulary learning with spaced review, reverse practice, audio, and analytics | 学习设计 · 留存 · 数据反馈 / Learning design · Retention · Data feedback |
-| **[AI PM Learning Hub](https://github.com/echohux/ai-pm-learning-hub)** · [在线体验 Live Demo](https://echohux.github.io/ai-pm-learning-hub/ai-pm-checkin.html) | AI 产品经理学习与每日打卡工具 / An interactive learning and daily check-in tool for aspiring AI PMs | 信息架构 · 快速验证 / Information architecture · Rapid validation |
-| **[MOVE ON](https://github.com/echohux/move-on-daily-fit)** · [在线体验 Live Demo](https://move-on-daily-fit.elizabeth-jacobson42.chatgpt.site/) | 注重隐私的健身打卡产品，提供个性化计划与习惯进度 / A privacy-first fitness check-in product with personalized plans and visible progress | 习惯闭环 · 个性化 · 本地隐私 / Habit loop · Personalization · Local-first privacy |
-| **[Travel Planner](https://github.com/echohux/travel-planner-miniapp)** | 将收藏地点整理为逐日行程的微信小程序 / A WeChat mini-program that turns selected places into a day-by-day itinerary | 流程设计 · MVP 取舍 / Workflow design · MVP trade-offs |
+| **[AI PM Learning Hub](https://github.com/echohux/ai-pm-learning-hub)** · [在线体验 Live Demo](https://echohux.github.io/ai-pm-learning-hub/) | AI 产品经理学习与每日打卡工具 / An interactive learning and daily check-in tool for aspiring AI PMs | 信息架构 · 快速验证 / Information architecture · Rapid validation |
+| **[MOVE ON](https://github.com/echohux/move-on-daily-fit)** · [在线体验 Live Demo](https://echohux.github.io/move-on-daily-fit/) | 注重隐私的健身打卡产品，提供个性化计划与习惯进度 / A privacy-first fitness check-in product with personalized plans and visible progress | 习惯闭环 · 个性化 · 本地隐私 / Habit loop · Personalization · Local-first privacy |
+| **[Travel Planner](https://github.com/echohux/travel-planner-miniapp)** · [在线体验 Live Demo](https://echohux.github.io/travel-planner-miniapp/) | 将收藏地点整理为逐日行程的微信小程序 / A WeChat mini-program that turns selected places into a day-by-day itinerary | 流程设计 · MVP 取舍 / Workflow design · MVP trade-offs |
 
 ## 我的工作方式 · How I Build
 
