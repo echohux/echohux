@@ -26,9 +26,9 @@ I also use **Vibe Coding** to prototype quickly. Code is a means; product decisi
 | 项目 Project | 产品简介 What I Built | 核心能力 Product Signal |
 |---|---|---|
 | **[AI News Daily](https://github.com/echohux/ai-news-daily)** · [在线体验 Live Demo](https://echohux.github.io/ai-news-daily/) | 自动采集、去重、分类并发布 AI 与云计算资讯 / Automated AI and cloud news collection, deduplication, classification, and publishing | 信息工作流 · 自动化 · 内容质量 / Information workflow · Automation · Content quality |
-| **[Korean Vocabulary Study](https://github.com/echohux/Korean-Vocabulary-Study)** · [在线体验 Live Demo](https://echohux.github.io/Korean-Vocabulary-Study/) | 面向中文用户的韩语词汇学习产品，包含间隔复习、反向练习、语音与数据分析 / Korean vocabulary learning with spaced review, reverse practice, audio, and analytics | 学习设计 · 留存 · 数据反馈 / Learning design · Retention · Data feedback |
+| **[Korean Vocabulary Study](https://github.com/echohux/Korean-Vocabulary-Study)** · [在线体验 Live Demo](https://echohux.github.io/Korean-Vocabulary-Study/) | 面向中文用户的韩语词汇学习产品，包含间隔复习、反向练习、语音与数据分析 / Korean vocabulary learning with spaced review, reverse practice, audio, and analytics | 学习流程 · 间隔复习 · 本地统计 / Learning flow · Spaced review · Local analytics |
 | **[AI PM Learning Hub](https://github.com/echohux/ai-pm-learning-hub)** · [在线体验 Live Demo](https://echohux.github.io/ai-pm-learning-hub/) | AI 产品经理学习与每日打卡工具 / An interactive learning and daily check-in tool for aspiring AI PMs | 信息架构 · 快速验证 / Information architecture · Rapid validation |
-| **[MOVE ON](https://github.com/echohux/move-on-daily-fit)** · [在线体验 Live Demo](https://echohux.github.io/move-on-daily-fit/) | 注重隐私的健身打卡产品，提供个性化计划与习惯进度 / A privacy-first fitness check-in product with personalized plans and visible progress | 习惯闭环 · 个性化 · 本地隐私 / Habit loop · Personalization · Local-first privacy |
+| **[MOVE ON](https://github.com/echohux/move-on-daily-fit)** · [在线体验 Live Demo](https://echohux.github.io/move-on-daily-fit/) | 注重隐私的健身打卡产品，提供预设动作、目标相关计划展示与打卡记录 / Preset workouts, goal-based plan labels and local check-in history | 习惯闭环 · 个性化 · 本地隐私 / Habit loop · Personalization · Local-first privacy |
 | **[Travel Planner](https://github.com/echohux/travel-planner-miniapp)** · [在线体验 Live Demo](https://echohux.github.io/travel-planner-miniapp/) | 将收藏地点整理为逐日行程的微信小程序 / A WeChat mini-program that turns selected places into a day-by-day itinerary | 流程设计 · MVP 取舍 / Workflow design · MVP trade-offs |
 | **[周末搭子 · Campus Weekend Gigs](https://github.com/echohux/campus-weekend-gigs)** · [在线体验 Live Demo](https://echohux.github.io/campus-weekend-gigs/) | 学生与商家双角色的周末兼职流程 MVP / A campus weekend-job matching prototype | 双角色流程 · 状态设计 · MVP 验证 / Role-based workflows · State design · MVP validation |
 
@@ -52,11 +52,11 @@ I also use **Vibe Coding** to prototype quickly. Code is a means; product decisi
 | AI News Daily | 采集 → 去重分类 → 概览 → 发布与检查 | [资讯质量与故障兜底](https://github.com/echohux/ai-news-daily/blob/main/docs/EVALUATION.md) |
 | 周末搭子 | 登录 → 双角色认证演示 → 报名 / 发布 | [状态门槛与本地记录](https://github.com/echohux/campus-weekend-gigs/blob/main/docs/EVALUATION.md) |
 | 韩语学习 | 学新词 → 自评 → 间隔复习 → 统计 | [复习调度与学习记录](https://github.com/echohux/Korean-Vocabulary-Study/blob/master/docs/EVALUATION.md) |
-| MOVE ON | 资料 → 计划 → 训练 → 打卡 → 历史 | [计划与习惯记录](https://github.com/echohux/move-on-daily-fit/blob/main/docs/EVALUATION.md) |
-| 旅途有谱 | 选点 → 分日 → 排序 → 保存 | [排程与跨端差异](https://github.com/echohux/travel-planner-miniapp/blob/main/docs/EVALUATION.md) |
+| MOVE ON | 资料 → 计划展示 / 固定动作 → 打卡 → 历史 | [计划与习惯记录](https://github.com/echohux/move-on-daily-fit/blob/main/docs/EVALUATION.md) |
+| 旅途有谱 | 选点 → 手动 / 随机分日 → 距离排序 → 保存 | [排程与跨端差异](https://github.com/echohux/travel-planner-miniapp/blob/main/docs/EVALUATION.md) |
 | AI PM Learning Hub | 入口 → 登录 → 学习复习 → 同步 | [入口与线上依赖](https://github.com/echohux/ai-pm-learning-hub/blob/main/docs/EVALUATION.md) |
 
-验收文档是待执行方案，实际通过情况以执行记录为准。AI PM Learning Hub 的公开仓库主要提供入口与使用说明；旅行和健身项目以静态演示及源码归档交付，各项目 README 已说明复现边界。
+各项目流程按源码实现描述，验收文档是待执行方案；不代表已有自动评测、Bad Case 平台或量化效果。实际通过情况以执行记录为准。AI PM Learning Hub 的公开仓库主要提供入口与使用说明；旅行和健身项目以静态演示及源码归档交付，各项目 README 已说明复现边界。
 
 ## 近期关注 · Exploring Now
 
